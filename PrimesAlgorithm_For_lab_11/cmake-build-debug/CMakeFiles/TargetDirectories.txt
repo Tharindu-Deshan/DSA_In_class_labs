@@ -1,0 +1,3 @@
+E:/c++/PrimesAlgorithm_For_lab_11/cmake-build-debug/CMakeFiles/PrimesAlgorithm_For_lab_11.dir
+E:/c++/PrimesAlgorithm_For_lab_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++/PrimesAlgorithm_For_lab_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
